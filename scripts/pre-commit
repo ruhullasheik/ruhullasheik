@@ -1,0 +1,9 @@
+#!/bin/sh
+# Regenerate resume PDF if the markdown source changed
+
+if git diff --cached --name-only | grep -q "docs/Ruhulla_Sheik_Resume.md"; then
+    echo "Resume MD changed — regenerating PDF..."
+    uv run python generate_resume.py
+    git add docs/Ruhulla_Sheik_Resume.pdf
+    echo "PDF updated and staged."
+fi
