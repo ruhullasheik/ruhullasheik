@@ -1,0 +1,53 @@
+site_name: Ruhulla Sheik
+site_description: AI Platform Engineer · Tech Lead · Bangalore
+site_url: https://ruhullasheik.github.io/
+repo_url: https://github.com/ruhullasheik/ruhullasheik
+repo_name: ruhullasheik
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
+
+markdown_extensions:
+  - tables
+  - fenced_code
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - attr_list
+  - pymdownx.snippets:
+      base_path: ["."]
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ruhullasheik/
+    - icon: fontawesome/brands/github
+      link: https://github.com/ruhullasheik

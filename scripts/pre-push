@@ -1,0 +1,6 @@
+#!/bin/sh
+# Deploy MkDocs site to gh-pages branch on every push
+
+echo "Deploying site to GitHub Pages..."
+uv run mkdocs gh-deploy --quiet --force
+echo "Deployed to https://ruhullasheik.github.io/"
