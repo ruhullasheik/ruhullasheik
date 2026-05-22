@@ -4,30 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=4f46e5&center=true&vCenter=true&width=700&lines=Supply+chain+integrations+%E2%86%92+Cloud+modernization+%E2%86%92+AI+infrastructure;Connecting+AI+agents+to+the+systems+that+run+the+business;Building+the+bridge+between+enterprise+software+and+AI;Accelerating+AI+adoption+in+enterprise+%E2%80%94+one+platform+at+a+time" alt="Typing SVG" />
 </p>
 
----
-
-```sh
-$ curl -s https://ruhulla.dev/me | jq
-```
-
-```json
-{
-  "name": "Ruhulla Sheik",
-  "role": "AI Platform Engineer · Tech Lead",
-  "location": "Bangalore, India",
-  "tenure": "12+ years",
-  "journey": "Supply chain integrations → Cloud modernization → AI infrastructure",
-  "mission": "Accelerate AI adoption in enterprise — connect agents to the systems that run the business",
-  "expertise": [
-    "Enterprise integrations  — connecting ERP & supply chain systems to planning platforms at scale",
-    "Cloud modernization      — re-platforming legacy apps to multi-tenant cloud solutions on Azure",
-    "AI infrastructure        — MCP gateways, agent pipelines, Azure OpenAI on AKS"
-  ],
-  "stack": ["Python", "C#", "Java", "TypeScript", "Azure", "Kubernetes", "FastAPI", "MCP"],
-  "status": 200,
-  "hire": true
-}
-```
+<p align="center">
+  <a href="./docs/Ruhulla_Sheik_Resume.pdf">
+    <img src="https://img.shields.io/badge/12_YEARS-%E2%86%92_2_PAGES_%E2%AC%87-4f46e5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ruhullasheik/">
+    <img src="https://img.shields.io/badge/LinkedIn-ruhullasheik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
@@ -69,16 +54,5 @@ deliver outcomes back.              time they were wasting on ops.    Spec-drive
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
-
-### GitHub Stats
-
-![Ruhulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhullasheik&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhullasheik&layout=compact&hide_border=true&theme=default&langs_count=6)
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ruhullasheik-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhullasheik/)
-&nbsp;
-[![Resume](https://img.shields.io/badge/12_YEARS-%E2%86%92_2_PAGES_%E2%AC%87-4f46e5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./docs/Ruhulla_Sheik_Resume.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=80&section=footer" width="100%"/>
