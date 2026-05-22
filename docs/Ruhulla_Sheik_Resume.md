@@ -9,7 +9,11 @@
 
 ## Professional Summary
 
-Senior Software Engineer and Tech Lead with 12+ years at Aptean (formerly Logility, formerly AdapChain) building enterprise integration platforms and cloud-native services. Progressed from Integration Engineer writing ERP data pipelines to Tech Lead architecting multi-tenant cloud services and AI infrastructure. Recent work spans a production MCP (Model Context Protocol) AI gateway serving 20K+ API calls/day, post-acquisition identity integration between Aptean IAM and Logility's IdentityServer, a Google Zanzibar-based entitlements service, and a workflow automation platform (Apache Airflow) owned end-to-end. Equally comfortable in C#, Python, and Java; fluent in Azure, Kubernetes, and DevOps practices.
+Curious engineer with 12+ years of experience at the intersection of supply chain, cloud, and AI. Started by connecting customer data to planning systems — ERP integrations, data pipelines, supply chain modelling — and grew into modernising legacy platforms into multi-tenant cloud solutions that reduce cost and improve operational efficiency at scale.
+
+Today, the mission is different: partner with teams on their AI journey. That means embedding AI agents into enterprise platforms, building the infrastructure that lets those agents act on real business data, and accelerating adoption in organisations where the gap between AI potential and practical impact is still wide open.
+
+The through-line across all of it: take complex, messy system boundaries and make them work cleanly together — whether that's ERP data, cloud services, or AI tools talking to enterprise APIs.
 
 ---
 
