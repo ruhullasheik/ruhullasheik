@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="./docs/Ruhulla_Sheik_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/ruhullasheik/ruhullasheik/main/docs/Ruhulla_Sheik_Resume.pdf">
     <img src="https://img.shields.io/badge/12_YEARS-%E2%86%92_RESUME_%E2%AC%87-4f46e5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
   &nbsp;
