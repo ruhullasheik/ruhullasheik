@@ -16,18 +16,19 @@
 
 ---
 
-### Three acts
+### The story so far
 
-```
-🔗 Enterprise Integrations          ☁️ Cloud Modernization            🤖 AI Infrastructure
-─────────────────────────────       ──────────────────────────────    ──────────────────────────────
-Connecting ERP systems (SAP,        Lifting legacy apps off-prem      Building the layer that lets
-Oracle, JDE) to supply chain        into multi-tenant cloud           AI agents talk to enterprise
-planning platforms. Owning          platforms on Azure — reducing     software. MCP gateways,
-the full pipeline: extract,         cost, improving scalability,      agent pipelines, Azure OpenAI,
-transform, model, ingest,           and giving teams back the         OpenTelemetry observability.
-deliver outcomes back.              time they were wasting on ops.    Spec-driven, production-grade.
-```
+**`[ Act I ]`** &nbsp; 🔗 **The Integration Engineer** &nbsp; `2014 – 2020`
+
+> Six years deep inside SAP, Oracle, and JDE — extracting, transforming, and modelling supply chain data so enterprise planning systems could actually think. Owned pipelines end to end: ERP extraction → data modelling → planning ingestion → outcomes back to the customer. Learned that bad data boundaries break everything.
+
+**`[ Act II ]`** &nbsp; ☁️ **The Cloud Architect** &nbsp; `2020 – 2024`
+
+> Took what lived on-prem and made it cloud-native. Re-platformed legacy apps into multi-tenant solutions on Azure — reducing costs, improving scale, and giving teams back the time they were wasting on ops. Apache Airflow, identity systems, Google Zanzibar-based authorization. Learned that modernisation is only worth it if the new thing is actually better.
+
+**`[ Act III ]`** &nbsp; 🤖 **The AI Platform Engineer** &nbsp; `2024 – now`
+
+> Building the layer that lets AI agents act on real enterprise data. MCP gateways, agent pipelines, Azure OpenAI on AKS. The mission: close the gap between what AI *can* do and what businesses are *actually* using it for — and help teams make that journey without the false starts.
 
 ---
 
