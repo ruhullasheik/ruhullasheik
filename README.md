@@ -66,3 +66,4 @@ My work spans AI infrastructure, platform engineering, identity/auth, workflow a
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ruhullasheik-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhullasheik/)
+[![Resume](https://img.shields.io/badge/Resume-View_MD-green?style=flat&logo=markdown)](./docs/Ruhulla_Sheik_Resume.md)
