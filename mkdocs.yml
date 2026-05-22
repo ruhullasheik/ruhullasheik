@@ -1,4 +1,6 @@
 site_name: Ruhulla Sheik
+docs_dir: pages
+site_dir: docs
 site_description: AI Platform Engineer · Tech Lead · Bangalore
 site_url: https://ruhullasheik.github.io/
 repo_url: https://github.com/ruhullasheik/ruhullasheik

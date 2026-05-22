@@ -1,12 +1,12 @@
-"""Convert docs/Ruhulla_Sheik_Resume.md to docs/Ruhulla_Sheik_Resume.pdf."""
+"""Convert pages/Ruhulla_Sheik_Resume.md to pages/Ruhulla_Sheik_Resume.pdf."""
 
 from pathlib import Path
 
 import markdown
 from playwright.sync_api import sync_playwright
 
-MD_PATH = Path("docs/Ruhulla_Sheik_Resume.md")
-PDF_PATH = Path("docs/Ruhulla_Sheik_Resume.pdf")
+MD_PATH = Path("pages/Ruhulla_Sheik_Resume.md")
+PDF_PATH = Path("pages/Ruhulla_Sheik_Resume.pdf")
 
 CSS_STYLES = """
 * { box-sizing: border-box; margin: 0; padding: 0; }

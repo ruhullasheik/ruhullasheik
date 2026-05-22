@@ -1,15 +1,16 @@
 #!/bin/sh
-# Regenerate resume PDF and rebuild MkDocs site if resume MD changed
+# Regenerate resume PDF and rebuild MkDocs site if source files changed
 
-if git diff --cached --name-only | grep -q "docs/Ruhulla_Sheik_Resume.md"; then
+if git diff --cached --name-only | grep -q "pages/Ruhulla_Sheik_Resume.md"; then
     echo "Resume MD changed — regenerating PDF..."
     uv run python generate_resume.py
-    git add docs/Ruhulla_Sheik_Resume.pdf
+    git add pages/Ruhulla_Sheik_Resume.pdf
     echo "PDF updated and staged."
 fi
 
-if git diff --cached --name-only | grep -qE "docs/|mkdocs\.yml"; then
+if git diff --cached --name-only | grep -qE "pages/|mkdocs\.yml"; then
     echo "Docs changed — rebuilding MkDocs site..."
     uv run mkdocs build --quiet
-    echo "Site rebuilt."
+    git add docs/
+    echo "Site rebuilt and staged."
 fi

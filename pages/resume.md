@@ -10,4 +10,4 @@ hide:
 
 ---
 
---8<-- "docs/Ruhulla_Sheik_Resume.md"
+--8<-- "pages/Ruhulla_Sheik_Resume.md"
