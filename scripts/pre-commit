@@ -11,6 +11,6 @@ fi
 if git diff --cached --name-only | grep -qE "pages/|mkdocs\.yml"; then
     echo "Docs changed — rebuilding MkDocs site..."
     uv run mkdocs build --quiet
-    git add site/
+    git add docs/
     echo "Site rebuilt and staged."
 fi
